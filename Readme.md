@@ -1,6 +1,6 @@
-Author: Brice Mboudjeko
-Role: Sr DevOps Engineer
-Date: 5/13/23
+# Author: Brice Mboudjeko
+# Role: Sr DevOps Engineer
+# Date: 5/13/23
 
 =========================================================================================================================
 #                                                       Task
@@ -42,9 +42,11 @@ Date: 5/13/23
 
 11- Verify that the volume is mounted by running the df -h command.
 
-# df -h
+#   df -h
+
+################################################################################################################
+# "Practice Makes perfect"
+#  Thanks!!!
+################################################################################################################
 
 
-git remote add origin git@github.com:Devops-pro-group/Add-Ec2-volume.git
-git branch -M main
-git push -u origin main
